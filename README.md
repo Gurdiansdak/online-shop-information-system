@@ -81,7 +81,7 @@ All services communicate using **HTTP** protocol and **JSON** data format.
 
 ## 📂 Project Structure (Logical)
 
-online-shop-information-system/
+`online-shop-information-system/
 │── README.md
 │── backend/
 │ ├── controllers/
@@ -95,7 +95,7 @@ online-shop-information-system/
 │── docs/
 │ ├── architecture.md
 │ ├── api-documentation.md
-│ └── uml-diagrams/
+│ └── uml-diagrams/`
 
 
 ---
